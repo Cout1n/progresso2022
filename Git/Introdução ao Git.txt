@@ -7,5 +7,5 @@ Para adicionar qualquer arquivo, o comando é: git add . ou *
 
 Fazer mudanças... git commit –m “qualquer mensagem sobre o commit”
 
-O repositório remoto tbm precisa receber as mudanças: git push origin master
+O repositório remoto tbm precisa receber as mudanças: git push origin main
 
