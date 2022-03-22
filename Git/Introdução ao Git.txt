@@ -1,0 +1,11 @@
+Basico
+Para transformar qualquer diretório em um repositório GIT, o simples comando git init <directory>
+
+Verificar um repositório armazenado remotamente, comando git clone ...
+
+Para adicionar qualquer arquivo, o comando é: git add . ou *
+
+Fazer mudanças... git commit –m “qualquer mensagem sobre o commit”
+
+O repositório remoto tbm precisa receber as mudanças: git push origin master
+
